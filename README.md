@@ -3,7 +3,7 @@ Repository with scripts, tips, presentations and exercises about VSCode.
 
 # Links:
 
-[Links](Links.md "Links")
+1. [Visual Studio Code Tips and Tricks.](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
 # License:
 
